@@ -2,4 +2,4 @@
 multiclass classification text feature by CatBoost Classifier
 result is about 95%
 
-in Jupyter Notebook you can find my decision. 
+in Jupyter Notebook you can find my solution. 
